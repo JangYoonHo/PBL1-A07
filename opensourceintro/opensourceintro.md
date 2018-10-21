@@ -182,21 +182,31 @@
 
 ![](/gitbook/assets/github.png)
 
+
+
 **BitBucket **[**www.atlassian.com**](https://bitbucket.org)
 
 ![](/gitbook/assets/bitbucket.png)
+
+
 
 **Google Code **[code.google.com](http://code.google.com/)
 
 ![](/gitbook/assets/code.PNG)
 
+
+
 **Code Project **[https://www.codeproject.com](https://www.codeproject.com/)
 
 ![](/gitbook/assets/codeproject.png)
 
+
+
 **SourceForge **[**https://sourceforge.net**](https://sourceforge.net)
 
 ![](/gitbook/assets/sourse.PNG)
+
+
 
 **Naver nForge **
 
@@ -213,6 +223,10 @@
 **Most Starts**
 
 [https://github.com/search?q=stars:%3E1&s=stars&type=Repositories](https://github.com/search?q=stars:>1&s=stars&type=Repositories)![](/gitbook/assets/most stars.PNG)
+
+
+
+
 
 **Most Forks**
 
@@ -250,13 +264,19 @@ code.gov사이트는 대표적으로 현재 소비자 금융 보호국, 노동�
 
 ![](/gitbook/assets/usa university.PNG)
 
+
+
 **프랑스**
 
 프랑스 국립헌병대는 매년 증가하는 IT소요 비용을 줄이고,업무 컴퓨팅 인프라를 보다 효과적으로 지원하기 위해 그간 사용해오던MS기반 시스템의 사용 적정성을 검토했다.문제로 지적된 MS기술에 대한 종속성을 극복하기 위해 2004년 공개 SW기반 PC업무 환경을 조성하는 프로젝트를 시작한다.애초엔MS Office를OpenOffice, Internet Explore를 Firefox로 전환하는 것이었으나 점차 확대되어 2008년엔 우분투OS의 자체 에디션인 ‘GendBuntu’로 전환을 시작하게 된다.이후 2014년 6월 77,000대 PC에 대해 전환을 완료했다. 프랑스 국립헌병대의 사례는 유럽에서 가장 큰 규모의 공개SW전환 프로젝트로 꼽힌다.
 
+
+
 **러시아**
 
 냉전의 시대는 끝이 났음에도 여전히 러시아와 미국 간 견제는 계속된다.러시아 정부의 서방IT기술에 대한 뿌리 깊은 불신과 염려는 미국의 전CIA소속 에드워드 스노든이NSA의 불법 도청 및 감청 폭로로 인해 더욱 가중된 듯하다. 강력한 리더쉽을 발휘하고 있는 러시아의 블라디미르 푸틴 대통령은 이전부터 리눅스 사용을 확대하자는 주장을 피력해 왔다.최근 러시아 의회 듀마\(Duma\)는 정부 기관이 조달 시 공개SW에 우선권을 부여해 상용SW를 구매를 제한하는 법안의 초안을 준비 중이라고 밝혔다.이는 그간 푸틴 정부가 주장한 온SW주권 그러니까,해외 거대IT기업에 라이선스 및 SW구매 비용 등에 따른 자본의 국외 유출을 막고, 정보 보안 강화해SW경쟁력을 확보하기 위한 구체적인 조치이다. 지방 정부도 발빠르게 대응하고 있는 가운데 수도 모스크바시는 푸틴 대통령의 디지털 주권 요청에 대한 화답으로 MS Outlook을 버리고 이를 자국SW로 대체할 예정이라고 한다. MyOffice라 불리는 SW는 모스크바시 공무원들이 사용하는 컴퓨터 6천대에 설치되며 현재 사용하는MS\(MSFT, Tech30\)의 이메일 서비스를 대체하게 된다. MyOffice는 러시아 기업이 개발했으며,향후60만 명의 시 공무원 PC전부 사용하게 된다.새로운 법안은 공공 기관과 국영 기업이 외산SW를 구매하기 전에 유사 기능의 국내 제품에 대한 존재 유무를 먼저 확인하는 조항도 포함하고 있어 30억 달러 규모의 조달 시장의 오라클, MS등 외산 기술에 대한 의존도를 차단함으로써 자국SW시장 성장도 기대할 것으로 내다봤다.러시아 정부 관계자는 이미 일부 지방 정부에서는MS윈도우, 오라클DB를 공개SW기반으로 전환을 시작했다고 밝혔다. 또 지난해12월 당국은 정부의 공식 모바일OS개발을 위해 핀란드 기업 욜라\(Jolla\)가 개발한‘세일피시\(Sailfish\) OS’를 선택한다고 발표했다. 2015년 기준 시장점유율 약95%를 차지하고 있는 안드로이드나 iOS를 자국산 모바일OS로 대체해 향후 이들의 비중을 2025년까지 50%선으로 줄인다는 계획이다.
+
+
 
 **일본**
 
