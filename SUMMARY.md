@@ -7,4 +7,8 @@
   * [오픈소스의 재단](opensourceintro/opensourceofoundation.md)
 * [오픈소스의 역사](c624-d508-c18c-c2a4-c758-c5ed-c0ac.md)
   * [1950's](c624-d508-c18c-c2a4-c758-c5ed-c0ac/1950s.md)
+  * [1960's](c624-d508-c18c-c2a4-c758-c5ed-c0ac/1960s.md)
+  * [1970's](c624-d508-c18c-c2a4-c758-c5ed-c0ac/1970s.md)
+  * [1980's](c624-d508-c18c-c2a4-c758-c5ed-c0ac/1980s.md)
+  * [1990's](c624-d508-c18c-c2a4-c758-c5ed-c0ac/1990s.md)
 
