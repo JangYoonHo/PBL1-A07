@@ -1,6 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
+* [책의 소개](README.md)
+* [소개](c18c-ac1c.md)
 * [오픈소스의 소개](opensourceintro.md)
   * [오픈소스의 소개](opensourceintro/opensourceintro.md)
   * [오픈소스 관련 인물](opensourceintro/c624-d508-c18c-c2a4-ad00-b828-c778-bb3c.md)
